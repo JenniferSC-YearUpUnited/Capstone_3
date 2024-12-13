@@ -9,16 +9,16 @@ The purpose of this project is to analyze and visualize sales data for **EmporiU
 ### 1. **Data Analysis and Visualization**
 The core of my project involves analyzing and visualizing the sales data, which I approach in several steps:
 
-- **Data Cleaning**:
+**Data Cleaning**:
     - I start by cleaning and organizing the raw sales data to ensure it's accurate and ready for analysis. This step is crucial because messy data can lead to incorrect conclusions.
 
-- **Data Analysis**:
+**Data Analysis**:
     - I then dig into the sales data to uncover key trends, such as:
       - Which books are selling the most?
       - How have sales changed over time?
       - Which states have the best sales performance?
 
-- **Data Visualization**:
+**Data Visualization**:
     - After analyzing the data, I create charts and graphs in Power BI to present my findings clearly:
         - A **line chart** to show how sales change over time.
         - A **bar chart** to compare sales performance by product categories.
@@ -28,9 +28,9 @@ The core of my project involves analyzing and visualizing the sales data, which 
 ### 2. **Report Creation**
 Once I've completed the analysis, I organize the findings into a **Power BI report** that is easy to understand:
 
-- The report needs to have **at least two pages**, each with a clear and informative header describing what’s on that page.
+The report needs to have **at least two pages**, each with a clear and informative header describing what’s on that page.
   
-- I will also include **interactive features** in the report to let the regional sales team explore the data themselves:
+I will also include **interactive features** in the report to let the regional sales team explore the data themselves:
     - **Filters** to allow users to view specific parts of the data.
     - **Custom interactions**, such as tooltips, drillthrough pages, or bookmark navigation, to provide more details when users interact with the visualizations.
 
