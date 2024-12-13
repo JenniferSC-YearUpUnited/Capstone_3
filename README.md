@@ -1,11 +1,11 @@
-## Capstone_3: EmporiUm Sales Analysis Project - Power BI
+#Capstone_3: EmporiUm Sales Analysis Project - Power BI
 
 #Purpose
 The purpose of this project is to analyze and visualize sales data for **EmporiUm**, a virtual student bookstore. In this project, I am working as a data analyst to clean, analyze, and create interactive reports using **Power BI**. My goal is to help the company understand sales trends, identify the best-selling books, and gain insights into the sales performance across different states. This report will be shared with the regional sales team to help them make data-driven decisions and improve business performance.
 
 #Major Components
 
-### 1. **Data Analysis and Visualization**
+1. **Data Analysis and Visualization**
 The core of my project involves analyzing and visualizing the sales data, which I approach in several steps:
 
 **Data Cleaning**:
@@ -24,7 +24,7 @@ The core of my project involves analyzing and visualizing the sales data, which 
         - A **pie chart** to show how sales are distributed across states.
         - A **list** of the top-selling books with their authors.
 
-### 2. **Report Creation**
+2. **Report Creation**
 Once I've completed the analysis, I organize the findings into a **Power BI report** that is easy to understand:
 
 The report needs to have **at least two pages**, each with a clear and informative header describing what’s on that page.
@@ -33,7 +33,7 @@ I will also include **interactive features** in the report to let the regional s
     - **Filters** to allow users to view specific parts of the data.
     - **Custom interactions**, such as tooltips, drillthrough pages, or bookmark navigation, to provide more details when users interact with the visualizations.
 
-# Final Deliverables
+#Final Deliverables
 At the end of the project, I will:
 
 1. Submit my final Power BI report by 10:00 AM on presentation day with the filename format: `YourLastName_capstone3.pbix`.
@@ -44,5 +44,5 @@ At the end of the project, I will:
     - What trends did I find in the sales data?
     - What insights can be shared with EmporiUm’s sales team to help them improve their business?
 
-# Conclusion
+#Conclusion
 This project is a great opportunity to apply data analysis skills in a real-world business context. By creating a comprehensive Power BI report, I will not only gain hands-on experience with data cleaning and visualization but also provide valuable insights that can directly influence business decisions at EmporiUm. The project will culminate in a presentation that demonstrates my ability to turn data into actionable insights and communicate those findings clearly to a team.  
