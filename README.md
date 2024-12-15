@@ -1,6 +1,6 @@
 # Capstone_3: EmporiUm Sales Analysis Project - Power BI
 
-![flat,750x,075,f-pad,500x600,f8f8f8](https://github.com/user-attachments/assets/063b3522-0d42-49d2-9157-f9500bfffb1a)
+![flat,750x,075,f-pad,100x200,f8f8f8](https://github.com/user-attachments/assets/063b3522-0d42-49d2-9157-f9500bfffb1a)
 
 ### Purpose
 *The purpose of this project is to analyze and visualize sales data for **EmporiUm**, a virtual student bookstore. In this project, I am working as a data analyst to clean, analyze, and create interactive reports using **Power BI**. My goal is to help the company understand sales trends, identify the best-selling books, and gain insights into the sales performance across different states. This report will be shared with the regional sales team to help them make data-driven decisions and improve business performance.*
